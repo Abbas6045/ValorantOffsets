@@ -1,4 +1,3 @@
-#https://discord.gg/whMHpbgtGZ
 namespace offsets {
 	// global
 	uint64_t uworld_key = 0x8F24238; 
