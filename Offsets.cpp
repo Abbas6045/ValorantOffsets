@@ -1,12 +1,12 @@
 namespace offsets {
 	// global
-	uint64_t uworld_key = 0x8F24238; 
-	uint64_t uworld_state = 0x8F24200;
-	uint64_t g_object_state = 0x8D92580;
-	uint64_t g_object_key = 0x8D925B8;
-	uint64_t line_of_sight = 0x4977040;
-	uint64_t bone_matrix = 0x493D160;
-	uint64_t pakman_offset = 0x1B84120;                 
+	uint64_t uworld_key = 0x90217F8; 
+	uint64_t uworld_state = 0x90217C0;
+	uint64_t g_object_state = 0x8E8FB00;
+	uint64_t g_object_key = 0x8E8FB38;
+	uint64_t line_of_sight = 0x2A0C680;
+	uint64_t bone_matrix = 0x49F14C0;
+	uint64_t pakman_offset = 0x1C1C4B0;                     
 	
 	// world
 	uint64_t persistent_level = 0x38;			// world > persistent_level
